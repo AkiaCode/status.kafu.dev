@@ -1,26 +1,26 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: AkiaCode # Your GitHub organization or username, where this repository lives
+repo: status.kafu.dev # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: BackUp shutupandtakemy.codes
+    url: https://pmhbackup.kafu.dev
+  - name: Kurit
+    url: https://kurit.kafu.dev
+  - name: Kafu
+    url: https://kafu.dev
+  - name: Depnoland
+    url: https://depnoland.kafu.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.kafu.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://media.discordapp.net/attachments/921333476001742869/1161520149820616714/Kafux.png?ex=654b0def&is=653898ef&hm=3a3dddc27414a80e55742eee8cb3fd19a5f5e5e421e0cfb34923f5360164b3e8&=&width=445&height=445
+  name: Kafu
+  introTitle: "**Kafu** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: Hello World
   navbar:
     - title: Status
       href: /
