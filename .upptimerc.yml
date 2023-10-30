@@ -14,7 +14,7 @@ status-website:
   cname: status.kafu.dev
   # baseUrl: /your-repo-name
   logoUrl: https://media.discordapp.net/attachments/921333476001742869/1161520149820616714/Kafux.png?ex=654b0def&is=653898ef&hm=3a3dddc27414a80e55742eee8cb3fd19a5f5e5e421e0cfb34923f5360164b3e8&=&width=445&height=445
-  name: Kafu
+  name: Kafu.dev
   introTitle: "**Kafu** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Hello World
   navbar:
