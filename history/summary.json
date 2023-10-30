@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 496,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {}
   },
   {
@@ -28,51 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 75,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Kafu",
-    "url": "https://kafu.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/kafu.dev.ico",
-    "slug": "kafu",
-    "status": "down",
-    "uptime": "12.23%",
-    "uptimeDay": "12.23%",
-    "uptimeWeek": "12.23%",
-    "uptimeMonth": "12.23%",
-    "uptimeYear": "12.23%",
-    "time": 476,
-    "timeDay": 476,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
-    "dailyMinutesDown": {
-      "2023-10-30": 0
-    }
-  },
-  {
-    "name": "Depnoland",
-    "url": "https://depnoland.kafu.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/depnoland.kafu.dev.ico",
-    "slug": "depnoland",
-    "status": "down",
-    "uptime": "11.72%",
-    "uptimeDay": "11.72%",
-    "uptimeWeek": "11.72%",
-    "uptimeMonth": "11.72%",
-    "uptimeYear": "11.72%",
-    "time": 489,
-    "timeDay": 489,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
-    "dailyMinutesDown": {
-      "2023-10-30": 0
-    }
   }
 ]
