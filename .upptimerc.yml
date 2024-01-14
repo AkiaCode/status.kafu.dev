@@ -6,6 +6,8 @@ sites:
     url: https://pmhbackup.kafu.dev
   - name: Kurit
     url: https://kurit.kafu.dev
+  - name: KafuChino
+    url: https://kafuchino.moe
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
