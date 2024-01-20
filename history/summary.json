@@ -37,22 +37,20 @@
   },
   {
     "name": "KafuChino",
-    "url": "https://kafuchino.moe",
+    "url": "http://kafuchino.moe",
     "icon": "https://icons.duckduckgo.com/ip3/kafuchino.moe.ico",
     "slug": "kafu-chino",
-    "status": "down",
-    "uptime": "99.86%",
+    "status": "up",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-14": 11
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1584,
+    "timeDay": 1584,
+    "timeWeek": 1584,
+    "timeMonth": 1584,
+    "timeYear": 1584,
+    "dailyMinutesDown": {}
   }
 ]
