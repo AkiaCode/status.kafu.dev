@@ -4,7 +4,7 @@
     "url": "https://pmhbackup.kafu.dev",
     "icon": "https://icons.duckduckgo.com/ip3/pmhbackup.kafu.dev.ico",
     "slug": "back-up-shutupandtakemy-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 474,
     "timeMonth": 481,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-16": 0
+    }
   },
   {
     "name": "Kurit",
